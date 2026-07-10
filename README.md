@@ -35,35 +35,63 @@
 
 <div align="center">
   
-  <table width="100%">
+  <table width="100%" border="0" cellpadding="5" cellspacing="0">
     <tr>
       <td align="left" width="50%" valign="top">
-        <strong>🚀 Programming Languages & Core</strong><br/>
-        <img src="https://skillicons.dev/icons?i=python,cpp,c,java,bash,javascript,typescript,html,css" alt="Languages" />
+        <strong>🚀 Programming Languages & Core</strong><br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
       </td>
       <td align="left" width="50%" valign="top">
-        <strong>🤖 AI, ML & Large Language Models</strong><br/>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI & ML" />
-        <br/>
-        <!-- Custom badges for LLM & framework stack -->
-        <a href="#"><img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logoColor=white" alt="LangChain" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/LangGraph-1F6FEB?style=flat-square&logoColor=white" alt="LangGraph" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" alt="Ollama" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/RAG-0096FF?style=flat-square&logoColor=white" alt="RAG" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/MCP-FF4081?style=flat-square&logoColor=white" alt="MCP" /></a>
+        <strong>🤖 AI, ML & Large Language Models</strong><br/><br/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+        <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/LangGraph-1F6FEB?style=for-the-badge&logoColor=white" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" alt="Ollama" />
+        <img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge&logoColor=white" alt="RAG" />
+        <img src="https://img.shields.io/badge/MCP-FF4081?style=for-the-badge&logoColor=white" alt="MCP" />
       </td>
     </tr>
     <tr>
+      <td colspan="2"><br/></td>
+    </tr>
+    <tr>
       <td align="left" width="50%" valign="top">
-        <strong>⚙️ Backend, Databases & MLOps</strong><br/>
-        <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,mysql,postgres,mongodb,firebase,docker,kubernetes" alt="Backend & Databases" />
+        <strong>⚙️ Backend, Databases & MLOps</strong><br/><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       </td>
       <td align="left" width="50%" valign="top">
-        <strong>☁️ Cloud, DevOps & Tools</strong><br/>
-        <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux,vscode,pycharm,figma,postman" alt="DevOps & Tools" />
+        <strong>☁️ Cloud, DevOps & Tools</strong><br/><br/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       </td>
     </tr>
   </table>
@@ -78,10 +106,10 @@
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td align="center" width="50%">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=SomaseSahil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=SomaseSahil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaseSahil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+        <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=SomaseSahil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
       </td>
     </tr>
     <tr>
