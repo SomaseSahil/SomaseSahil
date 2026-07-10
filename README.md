@@ -811,7 +811,6 @@ Frontend Development         ████████████░░░░░
 
 # 🐍 Contribution Snake
 
-> **Enable this after setting up the GitHub Action (instructions in Part 5).**
 
 <div align="center">
 
