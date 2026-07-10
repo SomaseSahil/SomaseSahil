@@ -21,7 +21,7 @@
       </p>
     </td>
     <td valign="top" width="40%" align="right">
-      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="360" style="border-radius: 8px;" alt="Coding GIF" />
+      <img src="https://media.giphy.com/media/SWoSkN6dxTszqIKEqv/giphy.gif" width="360" style="border-radius: 8px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
