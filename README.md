@@ -10,9 +10,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/somase-sahil-4a6645328/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://SomaseSahil.github.io/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="mailto:sahilsomase05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/somase-sahil-4a6645328/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="30" width="30" style="margin-right: 5px;" /></a>
+  <a href="https://www.instagram.com/sahilsomase_112/?__pwa=1" target="blank"><img align="center" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="30" style="margin-right: 5px;" /></a>
+  <a href="https://SomaseSahil.github.io/Portfolio/" target="blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" height="30" width="30" style="margin-right: 5px;" /></a>
+  <a href="https://drive.google.com/file/d/1vNSLX7eYrfO2KL93xdX2K4YynRXsQv7W/view?usp=sharing" target="blank"><img align="center" src="https://cdn.simpleicons.org/googledrive/34A853" alt="Resume" height="30" width="30" style="margin-right: 5px;" /></a>
+  <a href="https://github.com/SomaseSahil" target="blank"><img align="center" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="30" width="30" style="margin-right: 5px;" /></a>
+  <a href="mailto:sahilsomase05@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
