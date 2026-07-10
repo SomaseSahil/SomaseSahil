@@ -24,7 +24,7 @@
       </p>
     </td>
     <td valign="top" width="40%" align="right">
-      <img src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/static/gifs/pic12.gif" width="360" style="border-radius: 8px;" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/master/static/gifs/pic12.gif" width="360" style="border-radius: 8px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
