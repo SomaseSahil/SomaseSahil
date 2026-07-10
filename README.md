@@ -21,7 +21,7 @@
       </p>
     </td>
     <td valign="top" width="40%" align="right">
-      <img src="https://raw.githubusercontent.com/dephraiim/dephraiim/master/developer.gif" width="360" style="border-radius: 8px;" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Gif/Coding%20Vibe.gif" width="360" style="border-radius: 8px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
