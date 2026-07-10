@@ -19,16 +19,19 @@
         <a href="https://SomaseSahil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-00C853?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
         <a href="https://drive.google.com/file/d/1vNSLX7eYrfO2KL93xdX2K4YynRXsQv7W/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
       </p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=SomaseSahil&label=Profile%20views&color=0e75b6&style=flat-square" alt="Visitor Count" />
+      </p>
     </td>
     <td valign="top" width="40%" align="right">
-      <img src="https://media.giphy.com/media/SWoSkN6dxTszqIKEqv/giphy.gif" width="360" style="border-radius: 8px;" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/static/gifs/pic12.gif" width="360" style="border-radius: 8px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 💫 About Me
+### 💫 About Me (Python Style)
 
 ```python
 class SahilSomase:
@@ -54,13 +57,13 @@ class SahilSomase:
 
 <div align="center">
   
-  <table>
+  <table width="100%">
     <tr>
-      <td align="left" width="50%">
+      <td align="left" width="50%" valign="top">
         <strong>🚀 Programming Languages & Core</strong><br/>
         <img src="https://skillicons.dev/icons?i=python,cpp,c,java,bash,javascript,typescript,html,css" alt="Languages" />
       </td>
-      <td align="left" width="50%">
+      <td align="left" width="50%" valign="top">
         <strong>🤖 AI, ML & Large Language Models</strong><br/>
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI & ML" />
         <br/>
@@ -76,11 +79,11 @@ class SahilSomase:
       </td>
     </tr>
     <tr>
-      <td align="left" width="50%">
+      <td align="left" width="50%" valign="top">
         <strong>⚙️ Backend, Databases & MLOps</strong><br/>
         <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,mysql,postgres,mongodb,firebase,docker,kubernetes" alt="Backend & Databases" />
       </td>
-      <td align="left" width="50%">
+      <td align="left" width="50%" valign="top">
         <strong>☁️ Cloud, DevOps & Tools</strong><br/>
         <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux,vscode,pycharm,figma,postman" alt="DevOps & Tools" />
       </td>
@@ -180,20 +183,20 @@ class SahilSomase:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <td>
+      <td align="center" width="50%">
         <img height="180" src="https://github-readme-stats.vercel.app/api?username=SomaseSahil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
-      <td>
+      <td align="center" width="50%">
         <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaseSahil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center" width="50%">
         <img height="180" src="https://streak-stats.demolab.com?user=SomaseSahil&theme=tokyonight&hide_border=true" alt="Streak Stats" />
       </td>
-      <td>
+      <td align="center" width="50%">
         <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=SomaseSahil&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
       </td>
     </tr>
