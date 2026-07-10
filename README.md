@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Somase</h1>
-<h3 align="center">AI & Machine Learning Engineer | LLM Developer</h3>
+<h3 align="center">AI & Machine Learning Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/master/static/gifs/pic12.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SomaseSahil&label=Profile%20views&color=0e75b6&style=flat" alt="SomaseSahil" /> </p>
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/somase-sahil-4a6645328/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="30" width="30" style="margin-right: 5px;" /></a>
+  <a href="https://www.linkedin.com/in/somase-sahil-4a6645328/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 5px;" /></a>
   <a href="https://www.instagram.com/sahilsomase_112/?__pwa=1" target="blank"><img align="center" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="30" style="margin-right: 5px;" /></a>
   <a href="https://SomaseSahil.github.io/Portfolio/" target="blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" height="30" width="30" style="margin-right: 5px;" /></a>
   <a href="https://drive.google.com/file/d/1vNSLX7eYrfO2KL93xdX2K4YynRXsQv7W/view?usp=sharing" target="blank"><img align="center" src="https://cdn.simpleicons.org/googledrive/34A853" alt="Resume" height="30" width="30" style="margin-right: 5px;" /></a>
